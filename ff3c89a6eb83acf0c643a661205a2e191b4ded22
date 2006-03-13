@@ -1,0 +1,1 @@
+- updated to 0.53 [fixes buffer overflow - CVE-2005-3862]
