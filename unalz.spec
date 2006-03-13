@@ -1,12 +1,12 @@
 Summary:	Utility for decompressing alzip format files
 Summary(pl):	Narzêdzie do dekompresji plików w formacie alzip
 Name:		unalz
-Version:	0.53
+Version:	0.55
 Release:	1
 License:	BSD
 Group:		Applications/Archiving
 Source0:	http://www.kipple.pe.kr/win/unalz/%{name}-%{version}.tgz
-# Source0-md5:	0bbcbb33d510a8037caf5486ed203307
+# Source0-md5:	493e3258ac58be20ed8e179f9e0f01d1
 URL:		http://www.kipple.pe.kr/win/unalz/
 BuildRequires:	libstdc++-devel
 BuildRequires:	sed >= 4.0
