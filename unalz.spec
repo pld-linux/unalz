@@ -1,5 +1,5 @@
 Summary:	Utility for decompressing alzip format files
-Summary(pl.UTF-8):   Narzędzie do dekompresji plików w formacie alzip
+Summary(pl.UTF-8):	Narzędzie do dekompresji plików w formacie alzip
 Name:		unalz
 Version:	0.60
 Release:	1
