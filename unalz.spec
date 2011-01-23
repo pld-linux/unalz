@@ -9,6 +9,7 @@ Source0:	http://www.kipple.pe.kr/win/unalz/%{name}-%{version}.tgz
 # Source0-md5:	e4db2c4e3c8f6f5ee414b68bc55288e5
 URL:		http://www.kipple.pe.kr/win/unalz/
 BuildRequires:	libstdc++-devel
+BuildRequires:	zlib-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
